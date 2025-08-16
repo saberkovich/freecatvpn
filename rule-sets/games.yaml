@@ -222,3 +222,11 @@ payload:
   - PROCESS-NAME,pugbmobile.exe
   - PROCESS-NAME,r6s.exe
   - PROCESS-NAME,valorant.exe
+  - PROCESS-NAME,HogwartsLegacy.exe
+  - PROCESS-NAME,ForzaHorizon5.exe
+  - PROCESS-NAME,eafc25.exe
+  - PROCESS-NAME,P5S.exe
+  - PROCESS-NAME,P5R.exe
+  - PROCESS-NAME,Starfield.exe
+  - PROCESS-NAME,DeadSpace.exe
+  - PROCESS-NAME,witcher3.exe
