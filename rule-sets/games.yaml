@@ -173,3 +173,13 @@ payload:
   - PROCESS-NAME,AoE4.exe
   - PROCESS-NAME,TotalWarWarhammer3.exe
   - PROCESS-NAME,CrusaderKings3.exe
+  - PROCESS-NAME,Schedule I.exe
+  - PROCESS-NAME,DELTARUNE.exe
+  - PROCESS-NAME,AssassinsCreedShadows.exe
+  - PROCESS-NAME,MonsterHunterWilds.exe
+  - PROCESS-NAME,gamelaunchhelper.exe
+  - PROCESS-NAME,Battlefield6.exe
+  - PROCESS-NAME,RDR2.exe
+  - PROCESS-NAME,eldenring.exe
+  - PROCESS-NAME,Cyberpunk2077.exe
+  - PROCESS-NAME,KingdomComeDeliverance2.exe
