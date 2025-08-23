@@ -232,3 +232,5 @@ payload:
   - PROCESS-NAME,witcher3.exe
   - PROCESS-NAME,RimWorldWin64.exe
   - PROCESS-NAME,left4dead2.exe
+  - PROCESS-NAME,RiotClientServices.exe
+  - PROCESS-NAME,valorant.exe
