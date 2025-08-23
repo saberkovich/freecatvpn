@@ -231,3 +231,4 @@ payload:
   - PROCESS-NAME,DeadSpace.exe
   - PROCESS-NAME,witcher3.exe
   - PROCESS-NAME,RimWorldWin64.exe
+  - PROCESS-NAME,left4dead2.exe
