@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,majestic-files.net
   - DOMAIN-SUFFIX,majestic-files.com
   - DOMAIN-SUFFIX,majestic-rp.ru
+  - PROCESS-NAME,Majestic Launcher.exe
   - PROCESS-NAME,csgo.exe
   - PROCESS-NAME,dota 2.exe
   - PROCESS-NAME,dota
