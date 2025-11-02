@@ -2,6 +2,18 @@ payload:
   - DOMAIN-SUFFIX,majestic-files.net
   - DOMAIN-SUFFIX,majestic-files.com
   - DOMAIN-SUFFIX,majestic-rp.ru
+  - DOMAIN-SUFFIX,vivox.com
+  - DOMAIN-SUFFIX,vivoxtest.com
+  - DOMAIN-SUFFIX,vxdomain.com
+  - DOMAIN,stun.vivox.com
+  - IP-CIDR,85.236.96.0/21
+  - IP-CIDR,188.42.95.0/24
+  - IP-CIDR,188.42.147.0/24
+  - IP-CIDR,70.42.62.0/23
+  - IP-CIDR,64.94.252.0/23
+  - IP-CIDR,74.201.98.0/23
+  - IP-CIDR,70.42.198.0/24
+
   - PROCESS-NAME,Majestic Launcher.exe
   - PROCESS-NAME,majestic-webengine.exe
   - PROCESS-NAME,csgo.exe
