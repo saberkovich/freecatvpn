@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,majestic-files.net
   - DOMAIN-SUFFIX,majestic-files.com
   - DOMAIN-SUFFIX,majestic-rp.ru
+
   - DOMAIN-SUFFIX,vivox.com
   - DOMAIN-SUFFIX,vivoxtest.com
   - DOMAIN-SUFFIX,vxdomain.com
