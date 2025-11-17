@@ -255,3 +255,4 @@ payload:
   - PROCESS-NAME,VALORANT-Win64-Shipping.exe
   - PROCESS-NAME,gta_sa.exe
   - PROCESS-NAME,War-Win64-Shipping.exe
+  - PROCESS-NAME,BsgLauncher.exe
