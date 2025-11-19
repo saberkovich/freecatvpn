@@ -256,3 +256,5 @@ payload:
   - PROCESS-NAME,gta_sa.exe
   - PROCESS-NAME,War-Win64-Shipping.exe
   - PROCESS-NAME,BsgLauncher.exe
+  - PROCESS-NAME,EscapeFromTarkov.exe
+  - PROCESS-NAME,EscapeFromTarkov_BE.exe
