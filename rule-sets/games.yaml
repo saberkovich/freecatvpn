@@ -134,7 +134,6 @@ payload:
   - PROCESS-NAME,RocketLeague.exe
   - PROCESS-NAME,r5apex.exe
   - PROCESS-NAME,cs2.exe
-  - PROCESS-NAME,RobloxPlayerBeta.exe
   - PROCESS-NAME,gmod.exe
   - PROCESS-NAME,MinecraftLauncher.exe
   - PROCESS-NAME,javaw.exe
