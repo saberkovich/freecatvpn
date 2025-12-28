@@ -259,3 +259,4 @@ payload:
   - PROCESS-NAME,EscapeFromTarkov_BE.exe
   - PROCESS-NAME,Zero Hour.exe
   - PROCESS-NAME,ProjectZomboid64.exe
+  - PROCESS-NAME,ArmaReforgerSteam.exe
